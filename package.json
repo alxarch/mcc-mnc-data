@@ -1,0 +1,24 @@
+{
+  "name": "mobile-country-code-data",
+  "version": "0.1.0",
+  "description": "MNC/MCC data from wikipedia page",
+  "main": "index.js",
+  "scripts": {
+    "update": "basex update.xquery > data.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxarch/mobile-country-code-data.git"
+  },
+  "keywords": [
+    "mnc",
+    "mcc"
+  ],
+  "author": "Alexandros Sigalas <alxarch@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alxarch/mobile-country-code-data/issues"
+  },
+  "homepage": "https://github.com/alxarch/mobile-country-code-data#readme"
+}
